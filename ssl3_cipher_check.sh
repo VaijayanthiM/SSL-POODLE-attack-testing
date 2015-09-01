@@ -5,7 +5,7 @@
 #                        a targeted server.
 #
 # Author  - Lamar Spells (lamar_spells@symantec.com)
-#
+#Test
 #####################################################################################
 
 if [ $# -lt 1 ] ; then
